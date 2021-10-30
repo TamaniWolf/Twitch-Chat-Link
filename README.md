@@ -12,4 +12,6 @@ TWITCH_USERNAME = <Twitch-Username>
 TWITCH_OAUTH = <Twitch-oauth-Token>
 TWITCH_CHANNEL = <Twitch-Username>
 TWITCH_CLIENT_ID = <Twitch-Client-ID>
-TWITCH_CLIENT_SECRET = <Twitch-Client_Secret>```
+TWITCH_CLIENT_SECRET = <Twitch-Client_Secret>
+```
+...
