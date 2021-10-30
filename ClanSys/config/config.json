@@ -9,5 +9,6 @@
   "twitch_check_interval_ms": 60000,
   "mainguild": "<guildID>",
   "guildowner": "<guildOwnerID>",
-  "botid": "<botID>"
+  "botid": "<botID>",
+  "discord_channel": "<discord-channel-id>"
 }
