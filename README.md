@@ -14,4 +14,4 @@ TWITCH_CHANNEL = <Twitch-Username>
 TWITCH_CLIENT_ID = <Twitch-Client-ID>
 TWITCH_CLIENT_SECRET = <Twitch-Client_Secret>
 ```
-...
+Is created with `pnpm` instead of `npm`.
