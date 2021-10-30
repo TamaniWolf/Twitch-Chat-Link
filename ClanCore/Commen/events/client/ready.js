@@ -8,6 +8,6 @@ module.exports = {
     name: 'ready',
     execute(client){
         console.log(chalk.yellow('[' + DateTime.utc().toFormat(format1) + ']' + lang.prefix.clan, chalk.white(lang.log.ready)));
-        client.user.setActivity('Tamani Wolf', {type: 'LISTENING'});
+        client.user.setActivity('Twitch Chats', {type: 'LISTENING'});
     }
 };
