@@ -226,7 +226,7 @@
         "errorcommand":"There was an error trying to execute this command!"
     },
     "prefix": {
-        "clan":"[Clan]",
+        "clan":"[TwitchLink]",
         "discord":"[Discord]",
         "twitch":"[Twitch]",
         "chat":"[Chat]",
