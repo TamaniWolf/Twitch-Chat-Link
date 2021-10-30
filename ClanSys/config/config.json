@@ -1,0 +1,13 @@
+{
+  "prefix": "!",
+  "twitch_channels": "username1, username2, username3",
+  "discord_mentions": {
+    "username1": "everyone",
+    "username2": "news",
+    "username3": "moderator"
+  },
+  "twitch_check_interval_ms": 60000,
+  "mainguild": "<guildID>",
+  "guildowner": "<guildOwnerID>",
+  "botid": "<botID>"
+}
