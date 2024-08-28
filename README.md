@@ -1,3 +1,6 @@
+> [!WARNING]
+> This Repository is Archived and will not receive any updates.
+
 # Twitch-Chat-Link
 This is a JavaScript Bot to Mirror the chats of Twitch and Discord to each other.
 
